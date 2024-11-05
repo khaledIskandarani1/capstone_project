@@ -61,7 +61,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.preprocessing import StandardScaler
 import warnings
 import os
-
+```
 ## Project 3: Heart Attack Prediction
 
 ### Overview
