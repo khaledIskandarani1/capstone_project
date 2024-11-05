@@ -2,7 +2,7 @@
 Data Analyst Capstone Projects
 # Data Analytics Projects
 
-This repository contains three data analytics projects that showcase my skills in data analysis, machine learning, and data visualization. The projects are:
+This repository contains three data analytics projects . The projects are:
 
 1. **Restaurant Recommendation System**
 2. **Loan Defaulter Prediction**
